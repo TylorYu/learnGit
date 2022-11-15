@@ -7,3 +7,5 @@ five
 创建了分支，我修改了下
 再次尝试提交dev
 创建了feature1分支
+看冲突，解决冲突&&simple
+创建了feature2分支$$冲突
