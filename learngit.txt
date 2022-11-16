@@ -13,5 +13,9 @@ five
 使用--no-ff模式
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 git IS a  软件-----现在是在div分支
 
+=======
+stash模式
+>>>>>>> Stashed changes
