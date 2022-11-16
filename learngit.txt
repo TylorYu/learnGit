@@ -17,5 +17,9 @@ five
 看冲突，解决冲突&&simple
 创建了feature2分支$$冲突
 使用--no-ff模式
+<<<<<<< Updated upstream
+stash模式
+>>>>>>> Stashed changes
+=======
 stash模式
 >>>>>>> Stashed changes
