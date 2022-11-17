@@ -7,6 +7,7 @@ five
 创建了分支，我修改了下
 再次尝试提交dev
 创建了feature1分支
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 ++++++++++++
@@ -23,3 +24,8 @@ stash模式
 =======
 stash模式
 >>>>>>> Stashed changes
+=======
+=====
+修改了issue-101bug
+修改！
+>>>>>>> f46cd5e6204b73246826022a068249dce74312bd
